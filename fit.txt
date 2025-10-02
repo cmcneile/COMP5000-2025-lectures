@@ -1,0 +1,10 @@
+Monday
+Pressup 10
+Situp 20
+Tuesday
+Pressup 20
+Thursday
+Jog 10
+Pressup 30
+Friday
+Situp 20
